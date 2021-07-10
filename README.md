@@ -1,5 +1,5 @@
 # prueba-para-el-examen-UNIR
-Este es el archivo donde estarán guardadas las indicaciones solicitadas para el examen del curso  El periodista como programador de UNIR
+Este es el archivo donde estarán guardadas las indicaciones solicitadas para el examen del curso  El periodista como programador de UNIR.
 El examen lo damos en la plataforma https://micampus.unir.net/
 - Parte escrita 
 - Incluye 6 preguntas 
